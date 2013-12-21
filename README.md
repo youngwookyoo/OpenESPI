@@ -4,9 +4,11 @@ Providing implementations of the interface used to exchange energy usage informa
 
 Note that this repository has been replaced by the following set of projects:
 
-OpenESPI-Greenbutton-java
+OpenESPI-Greenbutton-java 
 
 OpenESPI-DataCustodian-java
 
 OpenESPI-ThirdParty-java
+
+[OpenESPI-GreenbuttonDataSDK] <https://github.com/energyos/OpenESPI-GreenbuttonDataSDK>
 
